@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 
 const Contacts = ({contacts}) => {
     // The Contacts method accepts the contacts state we created earlier
